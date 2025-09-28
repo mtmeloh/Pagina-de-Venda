@@ -1,0 +1,43 @@
+# Página de Vendas de Bicicletas
+
+
+#####   EM PROCESSO!!!!!
+
+
+
+
+
+
+
+## Descrição
+Esta é uma página de vendas simples, feita com **HTML**, **CSS** e **JavaScript**, com foco em design moderno e responsivo. A página permite exibir produtos (bicicletas) com imagens, descrições e preços.
+
+A página é totalmente **responsiva**, adaptando-se a diferentes tamanhos de tela, como desktop, tablet e celular.
+
+---
+
+## Tecnologias Utilizadas
+- HTML5
+- CSS3 (Flexbox e Grid)
+- JavaScript (para interatividade)
+- Google Fonts (Roboto Flex e Playfair Display)
+
+---
+
+## Funcionalidades
+- Exibição de produtos com imagem, nome e preço.
+- Menu de navegação fixo e responsivo.
+- Layout moderno com flexbox e grid.
+- Botões interativos para ações futuras (ex: "Comprar", "Adicionar ao carrinho").
+
+---
+
+## Estrutura de Pastas
+/projeto-vendas
+│
+├─ index.html # Página principal
+├─ /estilos
+│ └─ style.css # Arquivo de estilos CSS
+├─ /imagens
+│ └─ bicicleta.png # Imagens de produtos
+└─ README.md # Este arquivo
