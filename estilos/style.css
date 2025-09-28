@@ -76,7 +76,7 @@ main{
 
 
 .fundomain{
-    background-image: url(/imagens/fundo-de-tinta-preta.jpg);
+    background-image: url(imagens/fundo-de-tinta-preta.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 10px 10px 20px black;
@@ -101,7 +101,7 @@ main{
 }
 
 .img-bike{
-    background-image: url(/imagens/CGY-0302-108_zoom1-removebg-preview.png);
+    background-image: url(imagens/CGY-0302-108_zoom1-removebg-preview.png);
     background-repeat: no-repeat;
     background-size: contain;
 
