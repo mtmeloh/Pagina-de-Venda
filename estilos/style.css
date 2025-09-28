@@ -52,11 +52,14 @@ nav ul li a{
     color: black;
     font-size: 1.5em;
     transition: 0.4;
+    transition: 0.3s;
 }
 
 nav ul li a:hover{
     color: rgba(101, 133, 99, 0.853);
+    transform: scale(1.5);
 }
+
 
 
 
@@ -76,7 +79,7 @@ main{
 
 
 .fundomain{
-    background-image: url(/imagens/fundo-de-tinta-preta.jpg);
+    background-image: url("../imagens/fundo-de-tinta-preta.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 10px 10px 20px black;
@@ -101,7 +104,7 @@ main{
 }
 
 .img-bike{
-    background-image: url(/imagens/CGY-0302-108_zoom1-removebg-preview.png);
+    background-image: url("../imagens/CGY-0302-108_zoom1-removebg-preview.png");
     background-repeat: no-repeat;
     background-size: contain;
 
@@ -130,7 +133,9 @@ main input{
     grid-column: 3;               
     grid-row: 5/6;
 }
-
+main input:hover{
+transform: scale(1.1);
+}
 
 #inpu{
     font-size: 1em;
@@ -149,3 +154,8 @@ main input{
     grid-column: 4;              
     grid-row: 5/6;
 }
+
+#inpu:hover{
+transform: scale(1.1);
+}
+
